@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Java Quiz App</string>
+    <string name="question_one">1. What is the return type of a method that does not return any value?</string>
+    <string name="question_two">2.Which of the following is not OOPS concept in Java?</string>
+    <string name="inheritance">Inheritance</string>
+    <string name="encapsulation">Encapsulation</string>
+    <string name="polymorphism">Polymorphism</string>
+    <string name="compilation">Compilation</string>
+    <string name="question_three">3.Method overriding is combination of inheritance and polymorphism?</string>
+    <string name="true_ans">True</string>
+    <string name="false_ans">False</string>
+    <string name="question_four">3. Which of the following is a valid declaration of an object of class Box?</string>
+    <string name="radio_option_one">Box obj = new Box();</string>
+    <string name="radio_option_two">Box obj = new Box;</string>
+    <string name="radio_option_three">obj = new Box();</string>
+    <string name="radio_option_four">new Box obj;</string>
+    <string name="question_five">5. Which method can be defined only once in a program?</string>
+    <string name="main_method">main method</string>
+    <string name="finalize_method">finalize method</string>
+    <string name="private_method">private method</string>
+    <string name="static_method">static method</string>
+    <string name="question_six">6.Is java is Object Oriented ?</string>
+    <string name="true_or_false">True or False</string>
+    <string name="question_seven_text_view">7. Which among the following are Primitive Data Type in Java?</string>
+    <string name="integer">Integer</string>
+    <string name="boolean_check_box">Boolean</string>
+    <string name="char_check_box">Char</string>
+    <string name="toast_display_if_condition">Please fill up all your answers before submit!</string>
+
+</resources>
+
